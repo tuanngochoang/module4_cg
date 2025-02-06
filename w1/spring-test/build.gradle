@@ -28,7 +28,6 @@ dependencies {
   testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
 
   implementation 'org.springframework:spring-webmvc:5.3.23'
-
 }
 
 test {
